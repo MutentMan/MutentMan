@@ -17,18 +17,8 @@
 
 ---
 
-### 🛠️ <samp>Arsenal_and_Tools</samp>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,python,tensorflow,windows,azure,html,github,linkedin&perline=9" />
-</div>
-
-| Category | Tools & Skills |
-| :--- | :--- |
-| **Defensive** | [cite_start]SIEM, Risk Management, Threat Hunting [cite: 36, 54, 60] |
-| **Offensive** | [cite_start]Ethical Hacking, Pentesting, Burp Suite [cite: 23, 36] |
-| **Admin** | [cite_start]Linux Kernel, Windows Server, System Integration [cite: 55, 56, 76] |
-
+🛠️ <samp>Arsenal_and_Tools</samp>
+<div align="center"><a href="#"><img src="https://skillicons.dev/icons?i=aws,linux,python,tensorflow,firebase,docker,postman,kali,bash,powershell,github,linkedin&perline=13" /></a><br /><img src="https://img.shields.io/badge/Nmap-4E9BCD?style=for-the-badge&logo=nmap&logoColor=white" /><img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" /><img src="https://img.shields.io/badge/Robin_OSINT-AI-red?style=for-the-badge&logo=spyder" /></div>CategoryTools & SkillsDefensiveSIEM 1, Risk Management 22, Threat Hunting 3333OffensiveEthical Hacking 44, Pentesting 55, Burp Suite6666, Nmap, MetasploitOSINT & AIRobin (AI Dark Web OSINT), Generative AI 7777, ML 8Admin & CloudAWS 9, Azure 10, Firebase, Windows Server 11, Linux Kernel 12
 ---
 
 ### 📈 <samp>Activity_Monitor</samp>
