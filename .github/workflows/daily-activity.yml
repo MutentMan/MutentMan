@@ -1,0 +1,26 @@
+name: Auto Contribution
+
+on:
+  schedule:
+    # Runs at a random minute of every hour
+    - cron: "45 * * * *" 
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  auto_commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Make a random change
+        run: |
+          echo "Last activity: $(date)" > activity_log.txt
+          
+      - name: Commit and Push
+        run: |
+          git config --local user.email "swastik23072003@gmail.com"
+          git config --local user.name "MutentMan"
+          git add activity_log.txt
+          git commit -m "System heartbeat: $(date)" || echo "No changes to commit"
+          git push
